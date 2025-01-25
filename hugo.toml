@@ -1,0 +1,4 @@
+baseURL = 'https://jazzatlas.com/'
+languageCode = 'en-us'
+title = 'Jazz Atlas'
+theme = 'hugo-blog-awesome'
