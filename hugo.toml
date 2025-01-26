@@ -2,3 +2,11 @@ baseURL = 'https://jazzatlas.com/'
 languageCode = 'en-us'
 title = 'Jazz Atlas'
 theme = 'hugo-blog-awesome'
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/creatine_cycle"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
