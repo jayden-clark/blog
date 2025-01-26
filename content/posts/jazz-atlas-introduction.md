@@ -1,6 +1,6 @@
 +++
 date = '2025-01-26T19:54:31+11:00'
-draft = true
+draft = false
 title = 'Introduction To Jazz Atlas'
 +++
 ## Thesis
