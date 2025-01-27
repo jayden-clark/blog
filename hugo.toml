@@ -43,9 +43,6 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   dateFormat = "" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
   # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats.
   rssFeedDescription = "summary" # available options: 1) summary 2) full
-  # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
-  # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
-  # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
   avatar = "atlas.JPG" # put the file in assets folder; also ensure that image has same height and width
