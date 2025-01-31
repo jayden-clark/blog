@@ -5,7 +5,7 @@ title = 'Introduction To Jazz Atlas'
 +++
 ## Thesis
 
-I am noticing a vibe shift. As we near the precipice of an AI-enabled productivity explosion, those in technology are re-discovering the value in the beautiful and the cool.
+I am noticing a vibe shift. As we near the precipice of an AI-enabled productivity explosion, those in tech are rediscovering the beautiful and the cool.
 
 There is a broad movement in technology towards health and aesthetics. Technology adjacent publications like the Palladium Magazine host quarterly launch parties in which participants dress well. The Technology Brothers podcast features John Coogan and Jordi Hays dressed in suits and topics of discussion involve nice watches and why using the word "retarded" ironically is classless. The bed frame discourse and the trope of the technology brother living in complete degeneracy while he puts his craft above all else is falling out of style. Whether it's Jeff Bezos and his body transformation or Patrick Collison and his reading list, leaders in technology are helping shape what is cool, and people are yearning to be different. 
 
