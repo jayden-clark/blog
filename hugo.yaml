@@ -118,7 +118,7 @@ menu:
 
         - identifier: rss
           name: rss
-          url: index.xml 
+          url: /index.xml 
           params:
               icon: rss
 
