@@ -44,7 +44,7 @@ Get tickets [here](https://tickets.smokejazz.com/).
 Here is what you should be listening to this week in San Francisco.
 
 ### SFJazz March 13-14 - Joshua Redman Group
-Joshua Redman brings a young group to SFJazz this week, but no matter who he brings, if they're playing with Josh, they're killing it. He's one of the greatest living saxophone players and came of age in the '90s. His self-titled album is required listening for saxophone players, almost like Sonny Rollins' *Saxophone Colossus* and John Coltrane's *Blue Train*. He plays with such beautiful motivic development, and every solo he produces feels like an entire novel that's somehow easy to follow.
+Joshua Redman brings a young group to SFJazz this week, but no matter who he brings, if they're playing with Josh, they're killing it. He's one of the greatest living saxophone players and came of age in the '90s. His self-titled album is required listening for saxophone players, almost like Sonny Rollin's *Saxophone Colossus* and John Coltrane's *Blue Trane*. He plays with such beautiful motivic development, and every solo he produces feels like an entire novel that's somehow easy to follow.
 
 **Listening guide:**  
 - Joshua Redman - *Joshua Redman*  
